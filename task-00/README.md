@@ -1,6 +1,9 @@
 Task-00
+
 Linux
+
 #Task Description
+
 This task introduced linux as an open-source operating system, highlighting its importance for developers and security professionals.
 
 #why linux?
